@@ -1,6 +1,6 @@
 hello Git! hot-fix
 hello Git! master 修改1
-hello Git!
+hello Git! hot-fix 修改1
 hello Git!
 hello Git!
 hello Git!
